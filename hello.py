@@ -1,2 +1,3 @@
-for _ in range(10):
-    print('Hello, Git')
+for i in range(10):
+    if i % 3 == 0:
+        print('Hello, Git')
