@@ -1,4 +1,2 @@
-import requests
-
-def get_response() -> int:
-    return requests.get("https://wgoogle.com/").status_code
+for _ in range(10):
+    print('Hello, Git')
